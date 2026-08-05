@@ -1,0 +1,6 @@
+.env
+spans_output.txt
+analysis_output.txt
+__pycache__/
+*.pyc
+.venv/
